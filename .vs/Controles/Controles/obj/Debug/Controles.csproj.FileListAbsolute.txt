@@ -1,0 +1,2 @@
+C:\Users\rqm\OneDrive\Documentos\programer\Semana1Froms\.vs\Controles\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programer\Semana1Froms\.vs\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
